@@ -1,0 +1,17 @@
+{
+"companyName": "SMAN3PWK",
+"productName": "Skripsi_Hologram_WebGL",
+"productVersion": "1.0",
+"dataUrl": "HologramVirusBakteri.data.unityweb",
+"wasmCodeUrl": "HologramVirusBakteri.wasm.code.unityweb",
+"wasmFrameworkUrl": "HologramVirusBakteri.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "HologramVirusBakteri.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
